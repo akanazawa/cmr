@@ -1,7 +1,11 @@
 @article{cmrKanazawa18,
-  title={Learning Category-Specific Mesh Reconstruction from Image Collections},
-  author = {Angjoo Kanazawa and Shubham Tulsiani and Alexei A. Efros and Jitendra Malik},
-  journal={arXiv},
+  title={Learning Category-Specific Mesh Reconstruction
+  from Image Collections},
+  author = {Angjoo Kanazawa and
+  Shubham Tulsiani
+  and Alexei A. Efros
+  and Jitendra Malik},
+  journal={arXiv preprint arXiv:1803.07549},
   year={2018}
 }
 
