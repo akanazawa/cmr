@@ -35,11 +35,11 @@ We provide evaluation code to compute the IOU curves in the paper.
 Command below runs the model with different ablation settings.
 Run it from one directory above the `cmr` directory.
 ```
-python -m cmr.benchmark.run_evals --split val  --name CUB_submitted --num_train_epoch 500
+python -m cmr.benchmark.run_evals --split val  --name bird_net --num_train_epoch 500
 ```
 
 Then, run 
 ```
-python -m cmr.benchmark.plot_curvess --split val  --name CUB_submitted --num_train_epoch 500
+python -m cmr.benchmark.plot_curvess --split val  --name bird_net --num_train_epoch 500
 ```
 in order to see the IOU curve.
