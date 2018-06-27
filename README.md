@@ -54,6 +54,3 @@ If you use this code for your research, please consider citing:
 }
 
 ```
-
-## TODO:
-- requirements.txt is way too long
