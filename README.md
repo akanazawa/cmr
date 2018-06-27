@@ -23,6 +23,12 @@ source venv_cmr/bin/activate
 pip install -r requirements.txt
 ```
 
+#### Install Neural Mesh Renderer and Perceptual loss
+```
+cd external;
+bash install_external.sh
+```
+
 ### Demo
 1. From the `cmr` directory, download the trained model:
 ```
