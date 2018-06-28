@@ -19,6 +19,7 @@ import scipy.io as sio
 from ..nnutils import test_utils
 from ..data import cub as cub_data
 from ..nnutils import predictor as pred_utils
+from ..utils.bird_vis import convert2np
 
 flags.DEFINE_boolean('visualize', False, 'if true visualizes things')
 
