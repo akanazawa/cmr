@@ -2,9 +2,9 @@
 ## Pre-reqs
 
 ### CUB Data
-1. Download CUB-200 images somewhere:
+1. Download CUB-200-2011 images somewhere:
 ```
-wget http://www.vision.caltech.edu/visipedia-data/CUB-200/images.tgz && tar -xf images.tgz
+wget http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz && tar -xf CUB_200_2011.tgz
 ```
 
 2. Download our CUB annotation mat files and pre-computed SfM outputs.
