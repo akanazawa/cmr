@@ -3,6 +3,7 @@
 Angjoo Kanazawa<sup>\*</sup>, Shubham Tulsiani<sup>\*</sup>, Alexei A. Efros, Jitendra Malik
 
 University of California, Berkeley
+In ECCV, 2018
 
 [Project Page](https://akanazawa.github.io/cmr/)
 ![Teaser Image](https://akanazawa.github.io/cmr/resources/images/teaser.png)
@@ -48,14 +49,14 @@ Please see [doc/train.md](https://github.com/akanazawa/cmr/blob/master/doc/train
 ### Citation
 If you use this code for your research, please consider citing:
 ```
-@article{cmrKanazawa18,
+@inProceedings{cmrKanazawa18,
   title={Learning Category-Specific Mesh Reconstruction
   from Image Collections},
   author = {Angjoo Kanazawa and
   Shubham Tulsiani
   and Alexei A. Efros
   and Jitendra Malik},
-  journal={arXiv preprint arXiv:1803.07549},
+  booktitle={ECCV},
   year={2018}
 }
 
