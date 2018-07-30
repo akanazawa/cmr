@@ -2,6 +2,8 @@
 
 Angjoo Kanazawa<sup>\*</sup>, Shubham Tulsiani<sup>\*</sup>, Alexei A. Efros, Jitendra Malik
 
+In ECCV, 2018
+
 University of California, Berkeley
 
 [Project Page](https://akanazawa.github.io/cmr/)
