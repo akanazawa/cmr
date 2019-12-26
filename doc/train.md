@@ -9,8 +9,11 @@ wget http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz 
 
 2. Download our CUB annotation mat files and pre-computed SfM outputs.
 Do this from the `cmr/` directory, and this should make `cmr/cachedir` directory:
+
+~~`wget https://people.eecs.berkeley.edu/~shubhtuls/cachedir/cmr/cachedir.tar.gz`~~
+
+Please you use this [temporary link](https://www.dropbox.com/sh/ea3yprgrcjuzse5/AAB476Nn0Lwbrt3iuedB9yzIa?dl=0) for the moment.
 ```
-wget https://people.eecs.berkeley.edu/~shubhtuls/cachedir/cmr/cachedir.tar.gz
 tar -vzxf cachedir.tar.gz
 ```
 
