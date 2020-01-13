@@ -5,6 +5,8 @@ Angjoo Kanazawa<sup>\*</sup>, Shubham Tulsiani<sup>\*</sup>, Alexei A. Efros, Ji
 University of California, Berkeley
 In ECCV, 2018
 
+#### This code is no longer actively maintained. For Python3 and PyTorch NMR support, please see [this implementation](https://github.com/chenyuntc/cmr) from [chenyuntc](https://github.com/chenyuntc/).
+
 [Project Page](https://akanazawa.github.io/cmr/)
 ![Teaser Image](https://akanazawa.github.io/cmr/resources/images/teaser.png)
 
