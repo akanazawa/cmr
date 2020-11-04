@@ -24,6 +24,8 @@ cd preprocess/cub
 main
 ```
 
+You can find the pre-computed SfM for PASCAL 3D+ cars and aeroplanes [here](https://drive.google.com/file/d/1RbiCWu1ArD3ii-92o5xNkY6TzXBH0tgo/view?usp=sharing).
+
 ### Model training
 Change the `name` to whatever you want to call. Also see `shape.py` to adjust
 hyper-parameters (for eg. increase `tex_loss_wt` and `text_dt_loss_wt` if you
