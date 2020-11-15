@@ -93,7 +93,7 @@ def visualize(img, outputs, renderer):
     plt.imshow(vp3)
     plt.axis('off')
     plt.draw()
-    plt.show()
+    plt.show(block=True)
     import ipdb
     ipdb.set_trace()
 
