@@ -1,4 +1,5 @@
 """
+Adapted from : https://github.com/akanazawa/cmr/blob/master/nnutils/laplacian.py
 Computes Lx and it's derivative, where L is the graph laplacian on the mesh with cotangent weights.
 
 1. Given V, F, computes the cotangent matrix (for each face, computes the angles) in pytorch.
